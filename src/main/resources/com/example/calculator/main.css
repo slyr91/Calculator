@@ -1,0 +1,22 @@
+.button {
+    -fx-background-color: #AFE7FE;
+    -fx-background-radius: 0;
+    -fx-text-fill: #000000;
+    -fx-border-color: #E9F9FF;
+}
+
+.number-button {
+    -fx-font-size: 24px;
+}
+
+#resultArea {
+    -fx-background-color: #C4EEFF;
+    -fx-background-radius: 0;
+    -fx-text-fill: #000000;
+    -fx-font-size: 20px;
+    -fx-alignment: center-right;
+}
+
+#backspace-style {
+    -fx-graphic: url("backspace-arrow.png");
+}
